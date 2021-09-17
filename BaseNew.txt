@@ -70,6 +70,12 @@ public class BaseClass {
 		driver.quit();
 
 	}
+	
+	public static void quit() {
+
+		driver.quit();
+
+	}
 
 	// 4.NavigateTo
 	// --> string
